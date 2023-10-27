@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main function
- * @argc: argumentc
- * @argv: vector of arguments
+ * main - Entry point of the program
+ * @argc: Argument count
+ * @argv: Argument vector
  *Return: always 0
  */
 int main(int argc, char  *argv[])
