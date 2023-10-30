@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 /**
  * free_grid  - frees up a grid
  * @grid: grid to check
