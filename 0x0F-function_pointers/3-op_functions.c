@@ -23,7 +23,6 @@ int op_add(int a, int b)
 
 /**
   * op_sub - Returns the difference of two numbers.
-
   * @a: The first number.
   * @b: The second number.
   *
