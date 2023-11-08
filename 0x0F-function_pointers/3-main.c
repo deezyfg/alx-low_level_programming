@@ -1,9 +1,10 @@
+#include "function_pointers.h"
 #include "3-calc.h"
 #include <stdlib.h>
 #include <stdio.h>
 
 /**
-  * main - Entry point for a simple calculator program.
+  * main - Entry point for simple operations.
   * @argc: The number of command-line arguments.
   * @argv: An array of pointers to the command-line arguments.
   *
