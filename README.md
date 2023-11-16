@@ -7,7 +7,7 @@ This repository provides a comprehensive collection of C projects that cover var
 
 ## Project Structure
 
-The repository is organized into 18 directories, each representing a specific project or topic in low-level programming. The directories are numbered from 0x00 to 0x15, with each number corresponding to a particular aspect of the C programming language. This structured organization facilitates a progressive learning experience, allowing beginners to start with basic concepts and gradually advance to more complex topics.
+The repository is organized into 21 directories, each representing a specific project or topic in low-level programming. The directories are numbered from 0x00 to 0x15, with each number corresponding to a particular aspect of the C programming language. This structured organization facilitates a progressive learning experience, allowing beginners to start with basic concepts and gradually advance to more complex topics.
 
 
 **Directory Breakdown**
