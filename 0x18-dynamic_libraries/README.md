@@ -94,3 +94,5 @@ I bought a ticket for the Giga Millions and chose these numbers: 9, 8, 10, 24, 7
 * Before running the `gm` program, MSS always check the content of the directory
 * MSS always exit after running the program `gm`
 * TL;DR; This is what is going to happen
+
+* Tip: LD_PRELOAD
