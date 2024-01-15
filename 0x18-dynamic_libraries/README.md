@@ -1,5 +1,5 @@
 # 0x18. C - Dynamic libraries
-
+65;6800;1c
 This project involves creating dynamic libraries and exploring their use in C programming. Below are the tasks for this project:
 
 ## Mandatory Tasks
@@ -95,4 +95,4 @@ I bought a ticket for the Giga Millions and chose these numbers: 9, 8, 10, 24, 7
 * MSS always exit after running the program `gm`
 * TL;DR; This is what is going to happen
 
-* Tip: LD_PRELOAD
+* Tip:`LD_PRELOAD`
