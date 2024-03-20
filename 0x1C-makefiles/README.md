@@ -315,4 +315,5 @@ variables: `CC`, `SRC`, `OBJ`, `NAME`, `RM`, `CFLAGS`
 * You are not allowed to use the` %.o: %.c` rule
 * Your Makefile should work even if there is a file in the folder that has the same name as one of your rule
 * Your Makefile should not compile if the header file `m.h` is missing
+
 File: [100-Makefile](100-Makefile)
